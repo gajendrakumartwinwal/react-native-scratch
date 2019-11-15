@@ -28,4 +28,5 @@ Pod::Spec.new do |s|
 
   s.source_files = 'ios/*'
   s.public_header_files = 'ios/*.h'
+   s.dependency 'React'
 end
