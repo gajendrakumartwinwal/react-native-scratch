@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'RNScratch'
   s.version          = '1.0.0'
-  s.summary          = 'A short description of RNScratch.'
+  s.summary          = 'This library facilitates a view which allows the user to decipeher the details hidden behind a view by scratching.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -17,9 +17,7 @@ Pod::Spec.new do |s|
 #   * Write the description between the DESC delimiters below.
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
-  s.description      = 'Scratch library
-TODO: Add long description of the pod here.
-                       DESC
+  s.description      = 'Scratch library Scratch library Scratch library Scratch library Scratch library Scratch library Scratch library Scratch library Scratch library Scratch library Scratch library Scratch library Scratch library Scratch library Scratch library Scratch library'
 
   s.homepage         = 'https://github.com/gajendrakumartwinwal/react-native-scratch'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
